@@ -5,16 +5,21 @@ In the United States, there are many stores in which a survey was conducted base
 📁 Project Files
 
 Student Survey.xlsx :  Dataset containing student survey information.
+
 Project-1-Student survey.pbix :  Power BI file with DAX measures and visuals.
+
 Published in cloud service.png : image which power bi file was uploaded/published in cloud service 
 
 ✅ Key Features
 
 Used Matrix and Table Visualization for show the amount spent on Outdoor sports across different ages and Total amount of purchase by ‘Store setting’
+
 Charts: Funnel,Pie,Scatter Plotand Sand Dance Plot
+
 Power BI Service : published the report in power BI Cloud Service and create a schedule refresh for six times in every 4 hours for the Dashboard in a day
 
 🔧 Tools Used
 
 Power BI for visuals and DAX measures
+
 Excel for initial data formatting
